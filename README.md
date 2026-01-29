@@ -1,9 +1,9 @@
 E-Commerce Sales & Profitability Analysis
-📌 Project Overview
+**Project Overview
 
 This project performs Exploratory Data Analysis (EDA) on the US Superstore dataset to understand sales patterns, profit drivers, and the impact of discounts on business performance.
 
-🎯 Objectives
+**Objectives
 
 Analyze sales and profit trends over time
 
@@ -13,7 +13,7 @@ Study the effect of discounting on profitability
 
 Provide actionable business insights
 
-🛠 Tools & Technologies
+**Tools & Technologies
 
 Python
 
@@ -21,7 +21,7 @@ Pandas, NumPy
 
 Matplotlib, Seaborn
 
-📈 Key Analysis Performed
+**Key Analysis Performed
 
 Monthly sales and profit trend analysis
 
@@ -31,7 +31,7 @@ Discount impact on average profit
 
 Category and region-wise performance
 
-💡 Business Insights
+**Business Insights
 
 High discounts negatively impact profitability
 
@@ -39,7 +39,7 @@ Certain regions drive majority of profits
 
 Sales growth does not always equal profit growth
 
-▶️ How to Run
+**How to Run
 
 Clone the repository
 
